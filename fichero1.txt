@@ -1,4 +1,4 @@
-Primera linea
+Primera línea
 Añado más contenido a mi fichero
-Linea para borrar
 Seguimos avanzando en la práctica con git
+Cuarta línea (editada desde IntelliJ)
