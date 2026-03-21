@@ -1,5 +1,2 @@
-Primera línea
-Añado más contenido a mi fichero
-Seguimos avanzando en la práctica con git
-Cuarta línea (editada desde IntelliJ)
+
 Esto es una nueva funcionalidad que estoy creando en una rama nueva y las otras líneas no tienen sentido ahora, RSA
